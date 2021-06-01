@@ -1,0 +1,13 @@
+body{
+    background-color: #376E6F;
+}
+
+
+.error {
+	border: 2px solid #e74c3c;
+}
+
+.success {
+	border: 2px solid #2ecc71;
+}
+
